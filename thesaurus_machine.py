@@ -82,4 +82,3 @@ def fancy_synonyms(sentence):
         else:
             output += " " + dispense
     return output
-
